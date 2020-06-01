@@ -68,7 +68,7 @@ Giống list bình thường nhé
 
 - `sadd set_name value`: add value vào set name
 
-- `smember set_name`: trả về hết value
+- `smembers set_name`: trả về hết value
 
 - `scard`: trả về số lượng value có trong key
 
